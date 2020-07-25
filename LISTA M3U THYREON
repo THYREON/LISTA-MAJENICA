@@ -4,7 +4,7 @@
 https://edge2-ccast-hr.cvattv.com.ar//live/c3eds/DiscoveryHD/verimatrix_rotating_FTA/DiscoveryHD-video=1344000-audio_20001=144800.m3u8
 
 #EXTINF:-1 , HISTORY CHANNEL
-https://edge1-ccast-sl.cvattv.com.ar//live/live/HistoryHD/verimatrix_rotating_FTA/HistoryHD-audio_AACL_spa_144800_51=144800.m3u8
+https://edge1-ccast-sl.cvattv.com.ar//live/live/HistoryHD/verimatrix_rotating_FTA/HistoryHD-video=530000-text_DVSU_35=10000.m3u8
 
 #EXTINF:-1 , ANIMAL PLANET
 https://edge2-sl.cvattv.com.ar//live/live/AnimalPlanet/verimatrix_rotating_FTA/AnimalPlanet-audio_AACL_spa_144800_51=144800.m3u8
@@ -28,7 +28,7 @@ https://edge3-sl.cvattv.com.ar//live/c3eds/HBOHD/verimatrix_rotating_FTA/HBOHD-v
 https://edge10-hr.cvattv.com.ar//live/c2live/Cinemax/verimatrix_rotating_FTA/Cinemax-video=530000.m3u8
 
 #EXTINF:-1 , TNT
-http://edge2-sl.cvattv.com.ar//live/live/TNT/verimatrix_rotating_FTA/TNT-video=530000.m3u8
+
 
 #EXTINF:-1 , FX
 https://edge9-hr.cvattv.com.ar//live/c3eds/FXHD/verimatrix_rotating_FTA/FXHD-video=1344000-audio_20000=144800.m3u8
@@ -40,7 +40,7 @@ https://edge7-ccast-hr.cvattv.com.ar//live/c3eds/FOXHD/verimatrix_rotating_FTA/F
 https://edge3-hr.cvattv.com.ar//live/c3eds/Space/verimatrix_rotating_FTA/Space-video=530000.m3u8
 
 #EXTINF:-1 , WARNER CHANNEL
-https://edge4-sl.cvattv.com.ar//live/live/WarnerHD/verimatrix_rotating_FTA/WarnerHD-audio_AACL_spa_144800_51=144800.m3u8
+https://edge4-sl.cvattv.com.ar//live/live/WarnerHD/verimatrix_rotating_FTA/WarnerHD-video=530000.m3u8http://edge2-sl.cvattv.com.ar//live/live/TNT/verimatrix_rotating_FTA/TNT-video=530000.m3u8
 
 #EXTINF:-1 , AMC
 http://edge-live13-sl.cvattv.com.ar//live/c3eds/AMC/verimatrix_rotating_FTA/AMC-video=1344000-text_DVSU_35=10000-audio_20001=144800.m3u8
